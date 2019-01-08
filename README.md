@@ -1,6 +1,8 @@
 # Markdown_QuickGuide
 Markdown Crash Course. Most frequently used tags
 
+[![HitCount](http://hits.dwyl.io/{InamdarAbid}/{Markdown_QuickGuide}.svg)](http://hits.dwyl.io/{InamdarAbid}/{Markdown_QuickGuide})
+
 <!-- Headings -->
 # Heading 1
 ## Heading 2
