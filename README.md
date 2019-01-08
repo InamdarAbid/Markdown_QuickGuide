@@ -23,12 +23,16 @@ __This text__ is String.
 ~~This text~~ is italic.
 
 <!-- Horizontal rule -->
+***
 ___
+
+- - -
 
 \\ <!--  Used for escape special character -->
 
 <!-- Blockquote -->
 >This is a quote.
+
 
 <!-- Links -->
 ['Google'](https://www.google.com) 
@@ -36,6 +40,9 @@ ___
 ['Google'](https://www.google.com 
 "Google link") 
 
+<https://www.google.com>
+
+<abc@gmail.com>
 <!-- UL -->
 * Milk
 * Bread
@@ -61,7 +68,11 @@ ___
 <!-- GitHub Markdon -->
 
 <!-- Code Blocks -->
-``` sudo rm -rf ```
+    keep vim open when you leave your computer :p
+
+```bash 
+sudo rm -rf 
+```
 
 ```python
 def add(num1,num2):
@@ -78,3 +89,5 @@ def add(num1,num2):
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+Writing a 'print(name)' code in normal line.
